@@ -1,0 +1,13 @@
+Explicit
+1. Light strips with individually addressable LEDs (or addressable segments)
+2. Touchscreen control interface
+3. On/off switch that completely cuts power
+4. Audio system tie-in
+5. Control from my phone
+
+Implicit
+1. Wall power
+2. Internet connection
+3. Sufficient processing power for LEDs and touchscreen
+4. Permitted ceiling mount
+5. Controller case with permitted wall mount
