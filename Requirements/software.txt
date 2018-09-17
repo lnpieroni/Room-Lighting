@@ -1,0 +1,10 @@
+Explicit
+1. Touchscreen GUI
+2. Color picker
+3. Pattern selection
+4. Color presets
+
+Implicit
+1. Pattern calculation
+2. Color memory
+3. 
