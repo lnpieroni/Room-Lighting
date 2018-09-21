@@ -7,4 +7,3 @@ Explicit
 Implicit
 1. Pattern calculation
 2. Color memory
-3. 
